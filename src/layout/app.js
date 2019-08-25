@@ -47,6 +47,7 @@ const GlobalStyle = createGlobalStyle`
 `;
 
 // https://www.chartjs.org/docs/latest/charts/line.html#line-styling
+// https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/chart.js/index.d.ts
 
 const { strip, log } = evaluate({}, 0);
 
